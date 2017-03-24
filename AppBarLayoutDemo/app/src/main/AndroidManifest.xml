@@ -15,6 +15,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".AppBarLayoutScrollActivity" />
+        <activity android:name=".ScrollEnterAlwaysActivity" />
+        <activity android:name=".ScrollExitUntilCollapsedActivity" />
+        <activity android:name=".EnterAlwaysCollapsedActivity"></activity>
     </application>
 
 </manifest>
